@@ -38,7 +38,7 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FengYing1314&show_icons=true&icon_color=FFC0CB&text_color=FFB6C1&bg_color=ffffff&hide_title=true&hide_border=true" />
     <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FengYing1314&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFB6C1"/>
     <br/><br/>
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=FengYing1314&theme=default&hide_border=true&ring=FFC0CB&fire=FFB6C1&currStreakLabel=FFB6C1" />
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=FengYing1314&theme=default&hide_border=true&ring=FFC0CB&fire=FFB6C1&currStreakLabel=FFB6C2" />
     <br/><br/>
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FengYing1314&theme=minimal&color=FFC0CB&line=FFB6C1&point=FFA07A&hide_border=true"/>
 </div>
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/GitHub%20🏠-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="tencent://message/?uin=你的QQ号&Site=&Menu=yes">
-        <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=tencentqq&logoColor=white" />
+        <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=qq&logoColor=white" />
     </a>
 </div>
 
