@@ -3,7 +3,7 @@
     <br/>
     <img src="https://img.shields.io/badge/🎮Unity-开发萌新-FFC0CB?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/💝游戏发布-遥遥无期-FFC0CB?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🎯%20希望-做喜欢的游戏-FFC0CB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎯%20希望-做出喜欢的游戏-FFC0CB?style=for-the-badge" />
     <img src="https://img.shields.io/badge/✨%20爱好-编程和游戏-FFC0CB?style=for-the-badge" />
 </div>
 
