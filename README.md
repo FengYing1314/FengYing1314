@@ -22,8 +22,8 @@
 <h2 align="center">🌸 技能树 | My Skills ⭐️</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/🎮%20Unity-热恋中-FFC0CB?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/🎯%20C%23-初恋ing-FFC0CB?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎮%20Unity-热恋中-FFC0CB?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/🐍%20Python-好朋友-FFC0CB?style=for-the-badge&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/✨%20游戏开发-追梦中-FFC0CB?style=for-the-badge&logoColor=white" />
