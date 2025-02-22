@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/🤖%20人工智能-感兴趣-FFC0CB?style=for-the-badge&logoColor=white" />
 </div>
 
-<h2 align="center">📈 我的足迹 | My Footprints ❤️</h2>
+<h2 align="center">📈 我的记录 | My Footprints ❤️</h2>
 
 <div align="center">
     <img width="98%" src="https://count.getloli.com/get/@FengYing1314?theme=rule34" alt="访问次数"/>
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/-GitHub%20🏠-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://qm.qq.com/q/t15DyBJP4k">
-        <img src="https://img.shields.io/badge/-QQ%20🐧-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/-QQ%20🐧-FFC0CB?style=for-the-badge&logo=penguin&logoColor=white" />
     </a>
 </div>
 
