@@ -36,7 +36,7 @@
     <img width="98%" src="https://count.getloli.com/get/@FengYing1314?theme=rule34" alt="访问次数"/>
     <br/><br/>
     <img width="49%" src="https://readme.miao520.xyz/api?username=FengYing1314&show_icons=true&icon_color=FFC0CB&text_color=FFB6C1&bg_color=ffffff&hide_title=true&hide_border=true" />
-    <img width="45%" src="https://readme.miao520.xyz/api/top-langs/?username=FengYing1314&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFB6C1"/>
+    <img width="45%" src="https://readme.miao520.xyz/api/top-langs/?username=FengYing1314&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFB6C1&hide=JavaScript"/>
     <br/><br/>
     <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=FengYing1314&theme=default&hide_border=true&ring=FFC0CB&fire=FFB6C1&currStreakLabel=FFB6C2" />
     <br/><br/>
