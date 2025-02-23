@@ -55,6 +55,7 @@
 
 <div align="center">
     <h2>🌟 欢迎来到我的小窝，让我们一起用代码创造梦想！ 🌟</h2>
+    <img src = "friends_layout.png" />
     <a href="mailto:FengYing1314@miao520.fun">
         <img src="https://img.shields.io/badge/Email%20Me%20💌-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -65,6 +66,4 @@
         <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=qq&logoColor=white" />
     </a>
 </div>
-
-
-
+****
