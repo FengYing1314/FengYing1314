@@ -53,7 +53,6 @@
     </picture>
 </div>
 
-<!-- YumeYuka 卡片 -->
 <div align="center" style="margin-top: 10px;">
     <a href="https://github.com/YumeYuka" style="text-decoration: none; color: inherit;">
         <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 300px; display: flex; align-items: center; font-family: sans-serif;">
