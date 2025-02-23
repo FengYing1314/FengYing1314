@@ -1,4 +1,4 @@
-<div align="center">
+4<div align="center">
     <img width="85%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FFC0CB&center=true&vCenter=true&width=435&lines=%E2%99%A5%EF%B8%8F+Unity+Game+Developer+%E2%99%A5%EF%B8%8F;%F0%9F%8E%80+Coding+with+Love+%F0%9F%8E%80;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%B0%8F%E7%AA%9D%EF%BC%81" alt="Typing SVG" />
     <br/>
     <img src="https://img.shields.io/badge/🎮Unity-开发萌新-FFC0CB?style=for-the-badge&logoColor=white" />
@@ -28,7 +28,7 @@
     <br/>
     <img src="https://img.shields.io/badge/✨%20游戏开发-追梦中-FFC0CB?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/🤖%20人工智能-感兴趣-FFC0CB?style=for-the-badge&logoColor=white" />
-</div>SS
+</div>
 
 <h2 align="center">📈 我的足迹 | My Footprints ❤️</h2>
 
