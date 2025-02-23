@@ -53,6 +53,20 @@
     </picture>
 </div>
 
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+
+    <a href="https://github.com/YumeYuka" style="text-decoration: none; color: inherit;">
+        <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 200px; display: flex; align-items: center; font-family: sans-serif;">
+            <img src="https://raw.githubusercontent.com/fengying1314/fengying1314/main/YumeYuka.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+            <div>
+                <p style="font-weight: bold; margin: 0;">YumeYuka 喵喵喵</p>
+                <p style="font-size: 0.8em; margin: 0;">点击访问 GitHub 主页</p>
+            </div>
+        </div>
+    </a>
+
+</div>
+
 <div align="center">
     <h2>🌟 欢迎来到我的小窝，让我们一起用代码创造梦想！ 🌟</h2>
     <a href="mailto:FengYing1314@miao520.fun">
@@ -65,4 +79,5 @@
         <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=qq&logoColor=white" />
     </a>
 </div>
+
 
