@@ -51,20 +51,18 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FengYing1314/FengYing1314/output/github-contribution-grid-snake.svg">
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FengYing1314/FengYing1314/output/github-contribution-grid-snake.svg">
     </picture>
-</div>
 
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
-
-    <a href="https://github.com/YumeYuka" style="text-decoration: none; color: inherit;">
-        <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 200px; display: flex; align-items: center; font-family: sans-serif;">
-            <img src="https://raw.githubusercontent.com/fengying1314/fengying1314/main/YumeYuka.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-            <div>
-                <p style="font-weight: bold; margin: 0;">YumeYuka 喵喵喵</p>
-                <p style="font-size: 0.8em; margin: 0;">点击访问 GitHub 主页</p>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap;">  <!-- 修改：居中对齐 -->
+        <a href="https://github.com/YumeYuka" style="text-decoration: none; color: inherit;">
+            <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 200px; display: flex; align-items: center; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/fengying1314/fengying1314/main/YumeYuka.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+                <div>
+                    <p style="font-weight: bold; margin: 0;">YumeYuka 喵喵喵</p>
+                    <p style="font-size: 0.8em; margin: 0;">点击访问 GitHub 主页</p>
+                </div>
             </div>
-        </div>
-    </a>
-
+        </a>
+    </div>
 </div>
 
 <div align="center">
@@ -79,5 +77,4 @@
         <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=qq&logoColor=white" />
     </a>
 </div>
-
 
