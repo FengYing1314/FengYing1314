@@ -56,11 +56,11 @@
 <!-- YumeYuka 卡片 -->
 <div align="center" style="margin-top: 10px;">
     <a href="https://github.com/YumeYuka" style="text-decoration: none; color: inherit;">
-        <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 200px; display: flex; align-items: center; font-family: sans-serif;">
-            <img src="https://raw.githubusercontent.com/fengying1314/fengying1314/main/YumeYuka.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+        <div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin: 5px; width: 300px; display: flex; align-items: center; font-family: sans-serif;">
+            <img src="https://raw.githubusercontent.com/fengying1314/fengying1314/main/YumeYuka.jpg" style="width: 60px; height: 60px; border-radius:10px; margin-right: 10px;">
             <div>
-                <p style="font-weight: bold; margin: 0;">YumeYuka 喵喵喵</p>
-                <p style="font-size: 0.8em; margin: 0;">点击访问 GitHub 主页</p>
+                <p style="font-weight: bold; margin: 0;">YumeYuka</p>
+                <p style="font-size: 0.8em; margin: 0;">一起喵喵喵</p>
             </div>
         </div>
     </a>
