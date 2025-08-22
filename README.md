@@ -62,7 +62,4 @@
     <a href="https://github.com/FengYing1314">
         <img src="https://img.shields.io/badge/GitHub%20🏠-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://qm.qq.com/q/UqQAYtFJ2a">
-        <img src="https://img.shields.io/badge/QQ%20🐧-FFC0CB?style=for-the-badge&logo=qq&logoColor=white" />
-    </a>
 </div>
