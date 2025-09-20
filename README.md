@@ -1,12 +1,11 @@
 ﻿<div align="center">
 
-# 💫 关于我 | About Me
+# ✨ 枫莹の小窝 | FengYing's Home ✨
 
- 🌸 这里是枫莹，热爱二次元，喜欢折腾各种感兴趣的东西  
- ✨ 热爱编程~  
- 🌈 希望和大家一起交流学习，共同进步  
+<sub>欢迎光临，祝你今天也元气满满 (´▽`)ﾉ</sub>
 
-## 💻 技术栈
+
+## 💻 技术栈 | Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,unity,dotnet,ts&theme=light" alt="skills" />
@@ -42,8 +41,6 @@
 
 </div>
 
----
-
 ## 📬 联系方式 | Contact
 
 <div align="center">
@@ -59,12 +56,11 @@
 </a>
 
  </div>
-
----
+ 
 
 <div align="center">
 
-<strong>🌟 让我们一起在代码的世界里创造奇迹！🌟</strong><br/>
-<sub>记录来过这个世界的足迹～</sub>
+<strong>🌟 一起在代码的世界里创造小小奇迹！🌟</strong><br/>
+<sub>轻轻记录来过这个世界的足迹～</sub>
 
 </div>
