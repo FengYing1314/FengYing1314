@@ -1,6 +1,6 @@
 ﻿<div align="center">
 <img
-    width="85%"
+    width="120%"
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1200&color=FFB6C1&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+%E6%9E%AB%E8%8E%B9%E3%81%AE%E5%B0%8F%E7%AA%9D+%7C+FengYing%27s+Home+%E2%9C%A8;%E6%84%BF%E4%BD%A0%E8%A2%AB%E4%B8%96%E7%95%8C%E6%B8%A9%E6%9F%94%E4%BB%A5%E5%BE%85+%E2%9C%BF;Happy+coding,+have+fun!+%E2%9C%A8"
     alt="Typing SVG"
 />
