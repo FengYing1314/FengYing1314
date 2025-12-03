@@ -14,8 +14,8 @@
 ## 📊 GitHub 统计 | GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FengYing1314&show_icons=true&theme=default&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=666&bg_color=ffffff" alt="GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengYing1314&layout=compact&theme=default&hide_border=true&title_color=FFB6C1&text_color=666&bg_color=ffffff" alt="Top Languages" height="170" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=FengYing1314&show_icons=true&theme=default&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=666&bg_color=ffffff" alt="GitHub Stats" height="170" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FengYing1314&layout=compact&theme=default&hide_border=true&title_color=FFB6C1&text_color=666&bg_color=ffffff" alt="Top Languages" height="170" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FengYing1314&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" height="170" />
 </div>
 
