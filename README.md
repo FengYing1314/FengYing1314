@@ -13,10 +13,10 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts&amp;theme=light">
+<a href="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts%2Cjava&amp;theme=light">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts&amp;theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts&amp;theme=light" alt="skills" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts%2Cjava&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs%2Cpython%2Chtml%2Ccss%2Cjs%2Cunity%2Cdotnet%2Cts%2Cjava&amp;theme=light" alt="C#、Python、HTML、CSS、JavaScript、Unity、.NET、TypeScript、Java" />
 </picture>
 </a>
 
